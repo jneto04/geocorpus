@@ -6,3 +6,7 @@ Teste 20%
 Validação 5%
 
 Para rodar: ```python3.6 SplitGeoData.py```
+
+# Avaliação
+
+Para rodar: ```python3.6 geoEval.py [inputFileName] [outputFileName]```
