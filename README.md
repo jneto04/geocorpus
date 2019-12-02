@@ -10,3 +10,7 @@ Para rodar: ```python3.6 SplitGeoData.py```
 # Avaliação
 
 Para rodar: ```python3.6 geoEval.py [inputFileName] [outputFileName]```
+
+# FlairBBP-GeoFT
+
+Disponível [aqui](http://www.inf.pucrs.br/linatural/wordpress/pucrs-bbp-embeddings/)
